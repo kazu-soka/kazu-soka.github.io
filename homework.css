@@ -1,0 +1,34 @@
+@charset "utf-8";
+
+ul {
+    list-style: none;
+}
+
+table,
+td {
+    border: 1px solid #000;
+}
+
+#top {
+    color: crimson;
+}
+
+#id-1 {
+    color: green;
+}
+
+#id-2 {
+    color: orange;
+}
+
+tr:first-child {
+    background-color: green;
+}
+
+.text-center {
+    text-align: center;
+}
+
+a:link {
+    color: black;
+}
